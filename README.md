@@ -16,7 +16,7 @@ Don't forget setup the Xresources file
 
 ## screenshots
 - master
-![screenfetch](http://i.imgur.com/gJQy6nk.png)
+![screenfetch](http://i.imgur.com/FFmHByj.png)
 
 ## packages
 ``xinit xbacklight xinput feh scrot conky conky-all rxvt-unicode pavucontrol wicd ranger clementine icedove iceweasel alsa-utils acpi fonts-font-awesome
