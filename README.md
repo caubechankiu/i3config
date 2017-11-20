@@ -12,6 +12,8 @@ i3 version 4.13 (2016-11-08) © 2009 Michael Stapelberg and contributors
 ```
 git clone https://github.com/caubechankiu/i3config.git ~/.i3
 ```
+Don't forget setup the Xresources file
+
 ## screenshots
 - master
 ![screenfetch](http://i.imgur.com/gJQy6nk.png)
